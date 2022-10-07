@@ -1,8 +1,7 @@
 def same_case(char1, char2):
     """
     This function compares two characters, if either of them isn't a letter it returns -1, when they're both either capitalised or not capitalised
-    (capitalised and capitalised, or not capitalised and not capitalised) it returns 1, and for other cases (taking this as "one is capitalised and the other 
-    isn't, or viceversa) it returns -1
+    (capitalised and capitalised, or not capitalised and not capitalised) it returns 1, and for other cases (taking this as "one is capitalised and the other isn't, or viceversa) it returns -1
     """
     if char1.isalpha() != True or char2.isalpha() != True:
         return -1

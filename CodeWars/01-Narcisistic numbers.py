@@ -1,6 +1,7 @@
 from functools import reduce
 
 def is_narcissistic(num):
+    
     """
     This function allows us to determine wether a number is narcissistic or not - it returns a boolean (True/False)
     It creates a list with the number's digit (e.g. 153 would be [1, 5, 3]).
