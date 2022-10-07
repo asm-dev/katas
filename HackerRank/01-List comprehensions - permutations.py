@@ -2,11 +2,6 @@
 Print the permutation of lists formed by a, b, && c excluding the arrays that sum to n
 """
 
-# a = int(input())
-# b = int(input())
-# c = int(input())
-# n = int(input())
-
 a = 1
 b = 1
 c = 1
