@@ -20,5 +20,8 @@ for word in no_stopwords:
     else:
         word_ocurrences[word] += 1 
 
+longest_word = max(word_ocurrences.keys(), key=len)
+
+space = 15
 for word in dict(sorted(word_ocurrences.items(), key=lambda item: item[1])):
-    print(f"Word: {word} --- Occurrences: {str(word_ocurrences[word])}")
+    print(f"Word: {word.rjust(space,' ')} --- Occurrences: {str(word_ocurrences[word]).rjust(5,' ')}")
