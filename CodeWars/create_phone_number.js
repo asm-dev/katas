@@ -4,4 +4,18 @@ function createPhoneNumber(numbers){
     return "(" + numbers.slice(0,3).join('') + ") " + numbers.slice(3,6).join('') + "-" + numbers.slice(6,10).join('');
   }
   
-  createPhoneNumber([1,2,3,4,5,6,7,8,9,10])
+// createPhoneNumber([1,2,3,4,5,6,7,8,9,10])
+
+
+// ALTERNATIVE SOLUTION:
+// *********************
+// function createPhoneNumber(numbers){
+//     var format = "(xxx) xxx-xxxx";
+    
+//     for(var i = 0; i < numbers.length; i++)
+//     {
+//       format = format.replace('x', numbers[i]);
+//     }
+    
+//     return format;
+//   }
