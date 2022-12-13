@@ -1,9 +1,13 @@
 # Katas
 
-Repository used to gather coding challenges and various exercises done as part of IronHack and KeepCoding bootcamps, and a few completed katas from HackerRank and CodeWars challenges.
+Repository used to gather a quite wide variety of coding challenges and exercises done mainly during a couple of web dev bootcamps with IronHack and KeepCoding. This repo also stores a few HackerRank and CodeWars solved katas.
 
-## Languages used
+## Languages
 
 - Python
 - JavaScript
 - TypeScript
+
+## Frameworks
+
+- Ionic
