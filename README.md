@@ -24,6 +24,6 @@ Whether you're a fellow developer looking for inspiration or a coding enthusiast
 
 ## TO-DO
 
-- **Retry Katas:** I plan to revisit and tackle some of the CodeWars katas again. However, as I've been busy programming full time, this repository has been quite abandoned. Nevertheless, I aim to find time to continue honing my skills and exploring new challenges.
-- **Try New Katas**
-- **Become a Programmer Ninja**
+- Retry Katas: I plan to revisit and tackle some of the CodeWars katas again. However, as I've been busy programming full time, this repository has been quite abandoned. Nevertheless, I aim to find time to continue honing my skills and exploring new challenges.
+- Try New Katas
+- Become a Programmer Ninja
