@@ -2,10 +2,14 @@
 
 Welcome to my Code Challenges Repository 👽
 
-This repository serves as a **catch-all** for a wide variety of coding challenges and exercises completed mainly during my time at IronHack and KeepCoding web development bootcamps. Here, you'll find a diverse collection of projects ranging from basic algorithms to more complex data structures and algorithms challenges.
+This repository serves as a **catch-all** for a wide variety of coding challenges and exercises completed mainly during my time at IronHack and KeepCoding web development bootcamps. 
+
+Here, you'll find a diverse collection of projects ranging from basic algorithms to more complex data structures and algorithms challenges.
 
 ### Why This Repository?
-This repository serves as a consolidated archive of my coding journey, showcasing the progression of my skills and knowledge in web development and problem-solving. Whether you're a fellow developer looking for inspiration or a coding enthusiast eager to tackle new challenges, I hope you find something valuable here.
+This repository serves as a consolidated archive of my coding journey, showcasing the progression of my skills and knowledge in web development and problem-solving. 
+
+Whether you're a fellow developer looking for inspiration or a coding enthusiast eager to tackle new challenges, I hope you find something valuable here.
 
 ### What's Inside?
 - **IronHack Challenges:** A compilation of coding exercises and projects completed during my journey at IronHack bootcamp. These challenges helped solidify my understanding of web development concepts and technologies.
