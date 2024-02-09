@@ -6,11 +6,13 @@ This repository serves as a **catch-all** for a wide variety of coding challenge
 
 Here, you'll find a diverse collection of projects ranging from basic algorithms to more complex data structures and algorithms challenges.
 
+
 ## Why This Repository?
 
 This repository serves as a consolidated archive of my coding journey, showcasing the progression of my skills and knowledge in web development and problem-solving. 
 
 Whether you're a fellow developer looking for inspiration or a coding enthusiast eager to tackle new challenges, I hope you find something valuable here.
+
 
 ## What's Inside?
 
@@ -22,8 +24,9 @@ Whether you're a fellow developer looking for inspiration or a coding enthusiast
 
 - **CodeWars Katas:** Solutions to CodeWars katas, which are small coding challenges that range from beginner to advanced difficulty levels. These katas helped improve my problem-solving skills and algorithmic thinking.
 
+ 
 ## TO-DO
 
-- Retry Katas: I plan to revisit and tackle some of the CodeWars katas again. However, as I've been busy programming full time, this repository has been quite abandoned. Nevertheless, I aim to find time to continue honing my skills and exploring new challenges.
-- Try New Katas
-- Become a Programmer Ninja
+[] Retry Katas: I plan to revisit and tackle some of the CodeWars katas again. However, as I've been busy programming full time, this repository has been quite abandoned. Nevertheless, I aim to find time to continue honing my skills and exploring new challenges.
+[] Try New Katas
+[] Become a Programmer Ninja
