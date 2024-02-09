@@ -4,14 +4,14 @@ Welcome to my Code Challenges Repository 👽
 
 This repository serves as a **catch-all** for a wide variety of coding challenges and exercises completed mainly during my time at IronHack and KeepCoding web development bootcamps. 
 
-Here, you'll find a diverse collection of projects ranging from basic algorithms to more complex data structures and algorithms challenges.
+Here, you'll find a diverse collection of projects ranging from basic algorithms to more complex data structures and algorithms challenges.  
 
 
 ## Why This Repository?
 
 This repository serves as a consolidated archive of my coding journey, showcasing the progression of my skills and knowledge in web development and problem-solving. 
 
-Whether you're a fellow developer looking for inspiration or a coding enthusiast eager to tackle new challenges, I hope you find something valuable here.
+Whether you're a fellow developer looking for inspiration or a coding enthusiast eager to tackle new challenges, I hope you find something valuable here.  
 
 
 ## What's Inside?
@@ -22,7 +22,7 @@ Whether you're a fellow developer looking for inspiration or a coding enthusiast
 
 - **HackerRank Solutions:** Solutions to various coding challenges from HackerRank, a platform for practicing coding skills and competing in coding competitions.
 
-- **CodeWars Katas:** Solutions to CodeWars katas, which are small coding challenges that range from beginner to advanced difficulty levels. These katas helped improve my problem-solving skills and algorithmic thinking.
+- **CodeWars Katas:** Solutions to CodeWars katas, which are small coding challenges that range from beginner to advanced difficulty levels. These katas helped improve my problem-solving skills and algorithmic thinking.  
 
  
 ## TO-DO
